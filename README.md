@@ -1,5 +1,5 @@
 1.	Установите Docker и Docker Compose.
-2.	Клонируйте проект с помощью команды: git clone.
+2.  Скачайте Приложение с сайта github: https://github.com/Hanger12/SimbirSoftUploadsDataProject.git.
 3.	Выполните команду docker-compose up --build -d для сборки и запуска контейнеров Docker
 4.	Проверьте, что контейнеры запущены: docker ps
 5.	Приложение автоматически скачает данные из REST API и сохранит их в базе данных PostgreSQL.
